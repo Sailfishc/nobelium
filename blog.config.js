@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'sailfish\' blog',
+  title: 'sailfish blog',
   author: 'sailfish',
   email: 'sailfishcc@gmail.com',
   link: 'https://nobelium.vercel.app',
